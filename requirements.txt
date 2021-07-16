@@ -1,0 +1,7 @@
+imutils==0.5.4
+matplotlib==3.3.4
+numpy==1.19.5
+scipy==1.6.0
+opencv_python==4.5.1.48
+easyocr==1.3.0.1
+ipython==7.22.0
